@@ -339,4 +339,4 @@ async def on_ready():
     print('Il bot è in esecuzione')
 
 
-client.run('OTQ5Mzc3ODg0ODczNzExNjY2.YiJfDg.vNs-RSI52mTkNn0r5uvOE0QZ2U8') #Use your TOKEN
+client.run('') #Use your TOKEN
